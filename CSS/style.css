@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: 'Outfit', sans-serif;
+}
+body{
+    background-color: rgb(255, 255, 255);
+    background-color: rgb(3, 9, 36);
+}
+html::-webkit-scrollbar{
+    width: 10px;
+}
+html::-webkit-scrollbar-thumb{
+    background: linear-gradient(0deg, rgba(255,0,0,1) 0%, rgba(7,0,211,1) 100%);
+    border-radius: 100px;
+}
+.navbar{
+    background-color: rgb(20, 20, 20);
+    /* color: white; */
+}
+.welcome{
+    background-image: url('Files/welc.jpg');
+    text-align: center;
+    font-size: 200px;
+    background-position: center;
+    height: 400px;
+}
+.about{
+    font-size: 30px;
+    text-align: center;
+}
+.Under{
+    background-image: url(Files/construct.png);
+    height: 50px;
+    background-position: center;
+}
