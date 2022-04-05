@@ -20,7 +20,8 @@ html::-webkit-scrollbar-thumb{
     /* color: white; */
 }
 .welcome{
-    background-image: url('Files/welc.jpg');
+    /* background-image: url('Files/welc.jpg');*/
+    background: linear-gradient(10deg, rgba(255,0,0,1) 0%, rgba(7,0,211,1) 100%);
     text-align: center;
     font-size: 200px;
     background-position: center;
