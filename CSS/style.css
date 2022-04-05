@@ -26,6 +26,7 @@ html::-webkit-scrollbar-thumb{
     font-size: 200px;
     background-position: center;
     height: 400px;
+    display: flex;
 }
 .about{
     font-size: 30px;
